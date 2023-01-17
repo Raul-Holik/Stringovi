@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\bin\Debug\Stringovi.exe.config
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\bin\Debug\Stringovi.exe
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\bin\Debug\Stringovi.pdb
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\obj\Debug\Stringovi.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\obj\Debug\Stringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\obj\Debug\Stringovi.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\obj\Debug\Stringovi.exe
+C:\Users\Osoba\Documents\Skola\Stringovi\Stringovi\obj\Debug\Stringovi.pdb
